@@ -1,0 +1,24 @@
+{
+  "name": "neverwhere-theme",
+  "displayName": "Neverwhere",
+  "author": {
+    "name": "Tylan Davis"
+  },
+  "description": "A minimal theme inspired by the underground.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neverwhere",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neverwhere-color-theme.json"
+      }
+    ]
+  }
+}
