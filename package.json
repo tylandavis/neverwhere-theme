@@ -3,7 +3,7 @@
   "displayName": "Neverwhere",
   "publisher": "tylandavis",
   "description": "A minimal theme inspired by the underground.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.91.0"
   },
