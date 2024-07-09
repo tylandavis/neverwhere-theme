@@ -3,6 +3,10 @@
   "displayName": "Neverwhere",
   "publisher": "tylandavis",
   "description": "A minimal theme inspired by the underground.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylandavis/neverwhere-theme"
+  },
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.91.0"
