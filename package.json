@@ -1,9 +1,7 @@
 {
   "name": "neverwhere-theme",
   "displayName": "Neverwhere",
-  "author": {
-    "name": "Tylan Davis"
-  },
+  "publisher": "tylandavis",
   "description": "A minimal theme inspired by the underground.",
   "version": "1.0.0",
   "engines": {
